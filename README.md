@@ -4,6 +4,8 @@
 
 A tmux conf, which can work with [k-vim](https://github.com/wklken/k-vim)
 
+简要说明 [k-tmux](http://www.wklken.me/posts/2015/08/06/linux-tmux.html)
+
 # Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/wklken/gallery/master/tmux/tmux.png)
@@ -28,7 +30,7 @@ Use github
 
 ```
 git clone https://github.com/wklken/k-tmux.git
-ln -s k-tmux/tmux.conf ~/.tmux.conf
+ln -s $PWD/k-tmux/tmux.conf ~/.tmux.conf
 ```
 
 # Donation
