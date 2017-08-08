@@ -12,6 +12,8 @@ A tmux conf, which can work with [k-vim](https://github.com/wklken/k-vim)
 
 # Install
 
+NOTE: make sure your tmux version >= 2.5
+
 Recommend
 
 ```
